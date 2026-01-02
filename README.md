@@ -12,12 +12,11 @@ At the core of the analysis is the relational (diffeomorphism-invariant) two-poi
 
 Both implementations evaluate:
 
-*Partition function*
+**Partition function**
 
-Z=∑{ℓi}1det⁡K(ℓ)
-Z={ℓi} ∑ detK(ℓ)
+$ Z = \sum_{\{\ell_i\}} \frac{1}{\sqrt{\det K(\ell)}} \prod_{v \in \star \sigma_0} P_v(\{ \ell \})$
 
-*Geometric expectation values*
+**Geometric expectation values**
 
 Mean edge length ⟨ℓ⟩ and ⟨ℓ²⟩
 

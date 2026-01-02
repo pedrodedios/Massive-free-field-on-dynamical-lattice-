@@ -10,8 +10,7 @@ This repository contains the numerical codes created during my [Master's thesis]
 
 The lattice geometry is encoded in variable edge lengths, which are weighted by a Gaussian distribution. This setup provides a simplified, **spin-foam-inspired** model of fluctuating geometry that preserves the essential features of matter–geometry coupling while allowing explicit numerical evaluation.
 
-At the core of the analysis is the relational (diffeomorphism-invariant) two-point **correlation function ⟨ϕϕ(R)⟩** defined as a function of the geodesic distance 
-**R** measured along the dynamical lattice.
+At the core of the analysis is the proposed relational (diffeomorphism-invariant) two-point **correlation function ⟨ϕϕ(R)⟩** defined as a function of the geodesic distance **R** measured along the dynamical lattice.
 
 Both implementations evaluate:
 

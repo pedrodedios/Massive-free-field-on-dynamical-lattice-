@@ -2,7 +2,7 @@
 Numerical study of a free massive scalar field coupled to a one-dimensional dynamical lattice, using both **brute-force** enumeration and **importance sampling** techniques.
 
 <p align="center">
-  <img src="lattices.png" width="410">
+  <img src="lattices.png" width="600">
 </p>
 
 
